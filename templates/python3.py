@@ -5,4 +5,4 @@ import sys
 lines = sys.stdin.read().splitlines()
 
 # Solve challenge here
-print(len(lines))
+print(lines)
