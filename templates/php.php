@@ -1,11 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-$stdin = '';
-while (!feof(STDIN)) {
-    $stdin .= fread(STDIN, 1024);
-}
-$lines = array_filter(explode("\n", $stdin));
+$lines = file('php://stdin', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 
 // Solve challenge here
 var_dump($lines);
