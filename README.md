@@ -21,7 +21,7 @@ Om te winnen moet een team de meeste punten verdienen. Punten worden verdiend do
 Per opdracht is het aantal te behalen punten echter afhankelijk van hoe snel de opdracht wordt opgelost, want wie het eerst komt, wie de meeste punten krijgt.
 
 - Eerste team met correcte oplossing: **10 punten**
-- Tweede team met correcte oplossing: **8 punten****
+- Tweede team met correcte oplossing: **8 punten**
 - Derde team met correcte oplossing: **6 punten**
 - Elk volgend team met correcte oplossing: **5 punten**
 
